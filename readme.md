@@ -23,7 +23,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone the repo to your local folder
 
 ```
-git clone https://github.com/zhixuanevelynwu/maze_generator.git
+git clone https://github.com/zhixuanevelynwu/mazes_generator.git
 ```
 
 ## Usage <a name = "usage"></a>
