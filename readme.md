@@ -1,4 +1,4 @@
-# Random Map Generator with Dfferent Algorithms
+# Random Maze Generator with Dfferent Algorithms
 
 ## Table of Contents
 
