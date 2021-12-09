@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-This is a visualization of different maze generation algorithms. The functions for solving the longest paths in each maze and marking the deadends are also implemented.
+This is a maze generator implemented using various PCG algorithms. The functions for solving the longest paths in each maze and marking the deadends are also implemented.
 
 ## Getting Started <a name = "getting_started"></a>
 
