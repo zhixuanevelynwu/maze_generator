@@ -1,4 +1,4 @@
-# Random Maze Generator with Dfferent Algorithms
+# Random Maze Generator & Longest Path Solver
 
 ## Table of Contents
 
